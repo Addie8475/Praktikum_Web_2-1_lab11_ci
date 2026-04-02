@@ -1,4 +1,4 @@
-# Praktikum Web 2 Semester 4 - Praktikum 3
+# Praktikum Web 2 Semester 4 - Praktikum 1
 
 ## PHP Framework (Code Igniter 4)
 
